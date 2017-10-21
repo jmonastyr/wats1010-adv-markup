@@ -1,2 +1,5 @@
 .poem {list-style-type: none;
        line-height: 140%;}
+nav ul li {display: inline;
+           padding-left: 15px;
+           padding-right: 15px;}
