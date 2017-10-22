@@ -9,3 +9,5 @@ table, th, td {border: 1px solid black;
         padding-left: 4px;
         padding-right: 4px;
         text-align: center;}
+img {float: left;}
+#sidebar {float: right;}
